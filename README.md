@@ -20,8 +20,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### The challenge
 ### Screenshot
 
-![screenshot](../../../../../OneDrive/Pictures/Screenshots/screenshot.png)*
-(./screenshot.png)![screenshot]
+![screenshot](./screenshot.png)![screenshot](../../../../../OneDrive/Pictures/Screenshots/screenshot.png)*
+
 ### Links
 
 - Solution URL: (https://your-solution-url.com) https://github.com/TopeGramms/Homepage/
