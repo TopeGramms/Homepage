@@ -20,12 +20,12 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### The challenge
 ### Screenshot
 
-![screenshot](./screenshot.png)![Alt text](../../../../../OneDrive/Pictures/Screenshots/screenshot.png)*
-
+![screenshot](../../../../../OneDrive/Pictures/Screenshots/screenshot.png)*
+(./screenshot.png)![screenshot]
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com) https://github.com/TopeGramms/Homepage/
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)https://topegramms.github.io/Homepage/
+- Solution URL: (https://your-solution-url.com) https://github.com/TopeGramms/Homepage/
+- Live Site URL: (https://your-live-site-url.com)https://topegramms.github.io/Homepage/
 
 ## My process
 
